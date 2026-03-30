@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../MusicLibraryTests/MusicLibraryTests.csproj" Id="ae163ba1-30bb-4372-a043-71000de2c2a8" />
+  <Project Path="MusicLibrary.csproj" />
+</Solution>
